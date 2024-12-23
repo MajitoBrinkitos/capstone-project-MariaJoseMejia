@@ -66,3 +66,9 @@ This is convenient, so the user don't have to go back and start the search from 
 
 5. Dark/light mode
 ![dark/light mode](image-4.png)
+
+6. Example of movies/tv series displayed
+![display](image-5.png)
+
+7. Example of a modal
+![Modal example](image-6.png)
