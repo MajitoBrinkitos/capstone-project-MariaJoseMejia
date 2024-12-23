@@ -73,8 +73,19 @@ This is convenient, so the user don't have to go back and start the search from 
 7. Example of a modal
 ![Modal example](/images/image-6.png)
 
+8. Signup
+![Signup](/images/signup-img.png)
+
+9. Login
+![Login](/images/login-img.png)
+
+10. After using Signup to register a user
+![User registered in db](/images/user-rg.png)
+
 ## Technologies User
 1. Structure: HTML
 2. Style: CSS, SAAS
 3. Interactivity: JavaScript
 4. Framework: Bootstrap
+5. API: Database 'themoviedb.org'
+6. Database: Mongo DB
