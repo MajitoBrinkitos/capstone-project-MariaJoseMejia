@@ -72,3 +72,9 @@ This is convenient, so the user don't have to go back and start the search from 
 
 7. Example of a modal
 ![Modal example](/images/image-6.png)
+
+## Technologies User
+1. Structure: HTML
+2. Style: CSS, SAAS
+3. Interactivity: JavaScript
+4. Framework: Bootstrap
