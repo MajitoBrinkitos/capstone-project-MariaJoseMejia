@@ -53,22 +53,22 @@ This is convenient, so the user don't have to go back and start the search from 
 
 ## Screenshots
 1. Header with logo
-![Header with Logo](image.png)
+![Header with Logo](/images/image.png)
 
 2. Navigation Sidenavbar
-![Hidden Navigation sidenavbar](image-1.png)
+![Hidden Navigation sidenavbar](/images/image-1.png)
 
 3. Search area
-![Search area](image-2.png)
+![Search area](/images/image-2.png)
 
 4. Carousel with Watch Trailer Button
-![Carousel](image-3.png)
+![Carousel](/images/image-3.png)
 
 5. Dark/light mode
-![dark/light mode](image-4.png)
+![dark/light mode](/images/image-4.png)
 
 6. Example of movies/tv series displayed
-![display](image-5.png)
+![display](/images/image-5.png)
 
 7. Example of a modal
-![Modal example](image-6.png)
+![Modal example](/images/image-6.png)
