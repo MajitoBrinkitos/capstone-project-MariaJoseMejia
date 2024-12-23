@@ -92,3 +92,13 @@ This is convenient, so the user don't have to go back and start the search from 
 4. Framework: Bootstrap
 5. API: Database 'themoviedb.org'
 6. Database: Mongo DB
+
+## Development Log
+1. First week: idea and design
+2. Second week: HTML structure and CSS style
+3. Third week: JavaScript interactivity and Bootstrap framework
+4. Fourth week: API connection and database setup
+5. Fifth week: Testing and debugging
+
+## Challenges
+1. API connection and database setup
