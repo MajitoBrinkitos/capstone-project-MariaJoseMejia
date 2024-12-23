@@ -11,9 +11,6 @@ Cinephile is designed to be user-friendly and easy to navigate, with a simple an
 - [Features](#features) 
 - [Screenshots](#screenshots) 
 - [Technologies Used](#technologies-used) 
-- [Contributing](#contributing) 
-- [License](#license) 
-- [Acknowledgments](#acknowledgments) 
 - [Contact](#contact)
 
 ## Installation
@@ -102,3 +99,7 @@ This is convenient, so the user don't have to go back and start the search from 
 
 ## Challenges
 1. API connection and database setup
+
+## Contact
+Email: mcvef2013@gmail.com
+GitHub: https://github.com/MajitoBrinkitos
