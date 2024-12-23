@@ -82,6 +82,9 @@ This is convenient, so the user don't have to go back and start the search from 
 10. After using Signup to register a user
 ![User registered in db](/images/user-rg.png)
 
+11. Users stored in database
+![users in database](/images/users-db.png)
+
 ## Technologies User
 1. Structure: HTML
 2. Style: CSS, SAAS

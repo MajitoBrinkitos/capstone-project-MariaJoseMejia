@@ -4,7 +4,11 @@
   "description": "Final Capstone Project - Maria Jose Mejia Calvo\r # Project: Cinephile - the ticket to great entertainment",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -w sass/styles.scss -o public/css"
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.1"
   },
   "keywords": [],
   "author": "",
